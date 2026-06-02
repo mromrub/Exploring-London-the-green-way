@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260529094222I56OUX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260529094222J1H4VR</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Exploring London, the green way</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Sustainable destination</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Jesús Romero Rubio</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Exploring Londonm the green way. 
+This project will help you explore London while learning how to travel in a sustainable way. You will work in groups to design a one-day itinerary and present it in English.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780039657758</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpqlni6c-zslv2o37d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTATION</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTATION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCTION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTATION</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6c-zslv2o37d</odePageId>
+      <odeBlockId>block-1779899340934-d1uaql8w1</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6c-zslv2o37d</odePageId>
+          <odeBlockId>block-1779899340934-d1uaql8w1</odeBlockId>
+          <odeIdeviceId>idevice-1779899340932-wd9vak4mc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Welcome to our project!</p>
+<p>In this project, you are going to become a travel planner and explore one of the most famous cities in the world: London!</p>
+<p>Your mission is to design a one-day trip around London in a sustainable (eco-friendly) way. You will work in teams, use English to communicate, and create your own digital travel guide.</p>
+<p>Are you ready to discover London and help the planet at the same time?<br />Let’s go!</p>
+<p><img src="{{context_path}}/content/resources/notting-hill-1526219994.avif" width="681" height="681" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779899340932-wd9vak4mc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Welcome to our project!</p>\n<p>In this project, you are going to become a travel planner and explore one of the most famous cities in the world: London!</p>\n<p>Your mission is to design a one-day trip around London in a sustainable (eco-friendly) way. You will work in teams, use English to communicate, and create your own digital travel guide.</p>\n<p>Are you ready to discover London and help the planet at the same time?<br />Let’s go!</p>\n<p><img src=\"{{context_path}}/content/resources/notting-hill-1526219994.avif\" width=\"681\" height=\"681\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6f-xzpab4lue</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPTION OF THE PROYECT. EXPLORING LONDON, THE GREEN WAY</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPTION OF THE PROYECT. EXPLORING LONDON, THE GREEN WAY</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EXPLORING LONDON, THE GREEN WAY</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>DESCRIPTION OF THE PROYECT. EXPLORING LONDON, THE GREEN WAY</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6f-xzpab4lue</odePageId>
+      <odeBlockId>block-1779902057900-ek2sdl7gt</odeBlockId>
+      <blockName>EXPLORING LONDON, THE GREEN WAY</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6f-xzpab4lue</odePageId>
+          <odeBlockId>block-1779902057900-ek2sdl7gt</odeBlockId>
+          <odeIdeviceId>idevice-1779902057897-i9p900m2x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/big ben.jpg" width="292" height="183" alt="" /><br /></p>
+<p><strong title="big ben.jpg">Title:</strong> Exploring London the Green Way<br /><strong>Level:</strong> 5th Grade Primary Education<br /><strong>Subject Area: </strong>English as a Foreign Language<br /><strong>Duration:</strong> 10–12 sessions (3–4 weeks)</p>
+<p><strong>Subjects Involved:</strong></p>
+<p>English (main subject)<br />Social Science (maps and sustainability)<br />Art (design)<br />Digital Competence<br />Languages:</p>
+<p>English: main language for communication and learning<br />Spanish: used for teacher guidance, organization, and support.</p>
+<p><br /><strong>Project Description: </strong>The goal of this project is for students to plan a school trip to London from an ecological perspective. Students will learn vocabulary related to the city and its famous landmarks (such as the London Eye or Tower Bridge), sustainable means of transport, and expressions for asking and giving directions.</p>
+<p>Working in cooperative groups, students will create a final product: a digital travel guide or an interactive map in English. In this project, they will design a one-day itinerary around London, explaining which places they will visit and how they will travel in an environmentally friendly way (for example, walking or cycling).</p>
+<p>The entire research process and instructions will be guided through a digital resource created with eXeLearning.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779902057897-i9p900m2x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/big ben.jpg\" width=\"292\" height=\"183\" alt=\"\" /><br /></p>\n<p><strong title=\"big ben.jpg\">Title:</strong> Exploring London the Green Way<br /><strong>Level:</strong> 5th Grade Primary Education<br /><strong>Subject Area: </strong>English as a Foreign Language<br /><strong>Duration:</strong> 10–12 sessions (3–4 weeks)</p>\n<p><strong>Subjects Involved:</strong></p>\n<p>English (main subject)<br />Social Science (maps and sustainability)<br />Art (design)<br />Digital Competence<br />Languages:</p>\n<p>English: main language for communication and learning<br />Spanish: used for teacher guidance, organization, and support.</p>\n<p><br /><strong>Project Description: </strong>The goal of this project is for students to plan a school trip to London from an ecological perspective. Students will learn vocabulary related to the city and its famous landmarks (such as the London Eye or Tower Bridge), sustainable means of transport, and expressions for asking and giving directions.</p>\n<p>Working in cooperative groups, students will create a final product: a digital travel guide or an interactive map in English. In this project, they will design a one-day itinerary around London, explaining which places they will visit and how they will travel in an environmentally friendly way (for example, walking or cycling).</p>\n<p>The entire research process and instructions will be guided through a digital resource created with eXeLearning.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6g-ei94h6b9j</odePageId>
+  <odeParentPageId>page-mpqlni6f-xzpab4lue</odeParentPageId>
+  <pageName>LICENSES</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LICENSES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LICENSES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6g-ei94h6b9j</odePageId>
+      <odeBlockId>block-1779903742035-r0ark6qr9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6g-ei94h6b9j</odePageId>
+          <odeBlockId>block-1779903742035-r0ark6qr9</odeBlockId>
+          <odeIdeviceId>idevice-1779903742034-3kyfe1b7b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/licencia y seguridad.pdf" alt="" width="NaN" height="NaN" />Here you can learn more about licenses.</p>
+<p><a href="{{context_path}}/content/resources/licencia y seguridad.pdf" title="licencia y seguridad.pdf">{{context_path}}/content/resources/licencia y seguridad.pdf</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779903742034-3kyfe1b7b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/licencia y seguridad.pdf\" alt=\"\" width=\"NaN\" height=\"NaN\" />Here you can learn more about licenses.</p>\n<p><a href=\"{{context_path}}/content/resources/licencia y seguridad.pdf\" title=\"licencia y seguridad.pdf\">{{context_path}}/content/resources/licencia y seguridad.pdf</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6i-mst5b6pmu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>FINAL PRODUCT</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FINAL PRODUCT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FINAL PRODUCT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6i-mst5b6pmu</odePageId>
+      <odeBlockId>block-1779902414930-2sg9jblpk</odeBlockId>
+      <blockName>FINAL PRODUCT</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6i-mst5b6pmu</odePageId>
+          <odeBlockId>block-1779902414930-2sg9jblpk</odeBlockId>
+          <odeIdeviceId>idevice-1779902414929-rqvwiaruo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Final Product </strong></p>
+<p><strong>Tip: Work together, help your classmates and try your best!</strong></p>
+<p>We will use Canva tool in order to develop this final product.<img src="{{context_path}}/content/resources/descarga.jpg" width="101" height="101" alt="" /><br />In this project, you will work in groups to create a digital travel guide or an interactive map about London.</p>
+<p>You will design a one-day itinerary, including:</p>
+<p>Famous landmarks (London Eye, Tower Bridge, etc.)<br />A clear route around the city<br />Sustainable transport options (walking, cycling, etc.)<br />You will also present your project orally in English, explaining your decisions and your route.</p>
+<p> <br /> <strong>Objectives:</strong><br />Use English to communicate ideas<br />Learn about London and its culture<br />Promote sustainable tourism<br />Work cooperatively in groups<br />Use digital tools (Canva)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779902414929-rqvwiaruo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Final Product </strong></p>\n<p><strong>Tip: Work together, help your classmates and try your best!</strong></p>\n<p>We will use Canva tool in order to develop this final product.<img src=\"{{context_path}}/content/resources/descarga.jpg\" width=\"101\" height=\"101\" alt=\"\" /><br />In this project, you will work in groups to create a digital travel guide or an interactive map about London.</p>\n<p>You will design a one-day itinerary, including:</p>\n<p>Famous landmarks (London Eye, Tower Bridge, etc.)<br />A clear route around the city<br />Sustainable transport options (walking, cycling, etc.)<br />You will also present your project orally in English, explaining your decisions and your route.</p>\n<p> <br /> <strong>Objectives:</strong><br />Use English to communicate ideas<br />Learn about London and its culture<br />Promote sustainable tourism<br />Work cooperatively in groups<br />Use digital tools (Canva)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6j-0il7ijflr</odePageId>
+  <odeParentPageId>page-mpqlni6i-mst5b6pmu</odeParentPageId>
+  <pageName>What are we going to learn?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>What are we going to learn?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>What are we going to learn?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>What are we going to learn?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6j-0il7ijflr</odePageId>
+      <odeBlockId>block-1779979029992-xy90qh51e</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6j-0il7ijflr</odePageId>
+          <odeBlockId>block-1779979029992-xy90qh51e</odeBlockId>
+          <odeIdeviceId>idevice-1779979029990-ie11mf3ti</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<p><img src="{{context_path}}/content/resources/london eye.jpg" width="293" height="195" alt="" />In this project,<strong> you will learn </strong>how to:</p>
+<p>• Talk about famous places in London<br />• Use vocabulary about transport and the city<br />• Ask for and give directions<br />• Work in teams and share ideas<br />• Use digital tools to create your project<br />• Think about how to travel in a sustainable way</p>
+<p>By the end of the project, you will be able to create your own travel guide in English!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779979029990-ie11mf3ti","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<p><img src=\"{{context_path}}/content/resources/london eye.jpg\" width=\"293\" height=\"195\" alt=\"\" />In this project,<strong> you will learn </strong>how to:</p>\n<p>• Talk about famous places in London<br />• Use vocabulary about transport and the city<br />• Ask for and give directions<br />• Work in teams and share ideas<br />• Use digital tools to create your project<br />• Think about how to travel in a sustainable way</p>\n<p>By the end of the project, you will be able to create your own travel guide in English!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6l-f27ryahsy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CURING TOOLS (HERRAMIENTAS DE CURACIÓN)</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURING TOOLS (HERRAMIENTAS DE CURACIÓN)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURING TOOLS (HERRAMIENTAS DE CURACIÓN)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CURING TOOLS (HERRAMIENTAS DE CURACIÓN)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6l-f27ryahsy</odePageId>
+      <odeBlockId>block-1779902686658-w5jqio5pz</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6l-f27ryahsy</odePageId>
+          <odeBlockId>block-1779902686658-w5jqio5pz</odeBlockId>
+          <odeIdeviceId>idevice-1779902686657-ksasa18u0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Learning Resources</strong><br /></p>
+<p>Here you can find useful resources to help you complete your project.</p>
+<p>Click on the links and explore:</p>
+<p><strong>DUA.</strong> <strong>Tip: You can watch the video as many times as you need.</strong><br /><strong>Tip: If you don’t understand something, ask your teacher or your classmates.</strong></p>
+<p>• Videos about London <iframe width="300" height="150" src="https://www.youtube.com/embed/KtqVoo8iqeo?si=4OBuUtT0BbJ4nB6V" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: right;">Source: YouTube<br />Author: English Singsing<br />License: Standard YouTube License<br />Video link: https://www.youtube.com/watch?v=KtqVoo8iqeo<br /><br /></p>
+<p>Click on the following link to explore the resources:</p>
+<p><strong>London Landmarks (Padlet)</strong><br />Here you can explore important places in London, such as monuments and tourist attractions.</p>
+<p><a href="https://padlet.com/mromrub051/exploring-london-the-green-way-sq3q88fir0o2ra2x" target="_blank" rel="noopener" title="">https://padlet.com/mromrub051/exploring-london-the-green-way-sq3q88fir0o2ra2x</a></p>
+<p> <br /><strong>Digital Tools and Resources (Symbaloo).</strong><br />Here you will find different digital tools and resources to help you create your project.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAf5D-moAA41-5EY7QQ==" title="">https://www.symbaloo.com/shared/AAAAAf5D-moAA41-5EY7QQ==</a></p>
+<p><strong>Why these resources?</strong><br />These materials have been selected to help you:</p>
+<p>Learn about London<br />Improve your English<br />Use digital tools correctly<br />Work independently and in groups</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779902686657-ksasa18u0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Learning Resources</strong><br /></p>\n<p>Here you can find useful resources to help you complete your project.</p>\n<p>Click on the links and explore:</p>\n<p><strong>DUA.</strong> <strong>Tip: You can watch the video as many times as you need.</strong><br /><strong>Tip: If you don’t understand something, ask your teacher or your classmates.</strong></p>\n<p>• Videos about London <iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/KtqVoo8iqeo?si=4OBuUtT0BbJ4nB6V\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: right;\">Source: YouTube<br />Author: English Singsing<br />License: Standard YouTube License<br />Video link: https://www.youtube.com/watch?v=KtqVoo8iqeo<br /><br /></p>\n<p>Click on the following link to explore the resources:</p>\n<p><strong>London Landmarks (Padlet)</strong><br />Here you can explore important places in London, such as monuments and tourist attractions.</p>\n<p><a href=\"https://padlet.com/mromrub051/exploring-london-the-green-way-sq3q88fir0o2ra2x\" target=\"_blank\" rel=\"noopener\" title=\"\">https://padlet.com/mromrub051/exploring-london-the-green-way-sq3q88fir0o2ra2x</a></p>\n<p> <br /><strong>Digital Tools and Resources (Symbaloo).</strong><br />Here you will find different digital tools and resources to help you create your project.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAf5D-moAA41-5EY7QQ==\" title=\"\">https://www.symbaloo.com/shared/AAAAAf5D-moAA41-5EY7QQ==</a></p>\n<p><strong>Why these resources?</strong><br />These materials have been selected to help you:</p>\n<p>Learn about London<br />Improve your English<br />Use digital tools correctly<br />Work independently and in groups</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6m-y81hti3df</odePageId>
+  <odeParentPageId>page-mpqlni6l-f27ryahsy</odeParentPageId>
+  <pageName>DIGITAL TOOLS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DIGITAL TOOLS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DIGITAL TOOLS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6m-y81hti3df</odePageId>
+      <odeBlockId>block-1779980093264-rvkeq7ju7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6m-y81hti3df</odePageId>
+          <odeBlockId>block-1779980093264-rvkeq7ju7</odeBlockId>
+          <odeIdeviceId>idevice-1779980093263-uplo6udv5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>During this project, you will use different digital tools such as:</p>
+<p>• Canva (to create your travel guide).<br />• Google Forms (for questionnaires and reflection).<br />• Padlet (to explore and share information).<br />• Symbaloo (to organize digital resources).<br />• Wordwall / Quizlet (to practice vocabulary).<br />• Google Slides (for presentations).</p>
+<p>These tools will help you learn in a creative and fun way.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779980093263-uplo6udv5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>During this project, you will use different digital tools such as:</p>\n<p>• Canva (to create your travel guide).<br />• Google Forms (for questionnaires and reflection).<br />• Padlet (to explore and share information).<br />• Symbaloo (to organize digital resources).<br />• Wordwall / Quizlet (to practice vocabulary).<br />• Google Slides (for presentations).</p>\n<p>These tools will help you learn in a creative and fun way.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6n-er1ngykbr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TIMELINE</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TIMELINE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TIMELINE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6n-er1ngykbr</odePageId>
+      <odeBlockId>block-1779904445261-zpyoksxly</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6n-er1ngykbr</odePageId>
+          <odeBlockId>block-1779904445261-zpyoksxly</odeBlockId>
+          <odeIdeviceId>idevice-1779904445260-mtwqj5rq2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Use English as much as possible!</p>
+<p><strong>DUA. Tip: You can learn in different ways: reading, watching videos or working with your team.</strong></p>
+<p>In this timeline, you can see all the steps of the project.</p>
+<p> Click on the following link to explore the timeline and understand what you will do in each session.</p>
+<p><a href="https://padlet.com/mromrub051/exploring-london-the-green-way-sq3q88fir0o2ra2x" title="">https://padlet.com/mromrub051/exploring-london-the-green-way-sq3q88fir0o2ra2x </a></p>
+<p>Project Timeline<br />In this project, you will complete different tasks step by step.</p>
+<p> <strong>Session 1</strong><br />Watch a video about London and share what you already know.</p>
+<p><strong>Session 2</strong><br />Learn vocabulary about London landmarks.</p>
+<p><strong> Session 3</strong><br />Learn about sustainable transport and create a mini-poster.</p>
+<p><strong>Session 4</strong><br />Practice giving directions through role-play.</p>
+<p><strong> Sessions 5–6</strong><br />Research about London landmarks and eco-friendly transport.</p>
+<p><strong> Session 7</strong><br />Design your sustainable itinerary.</p>
+<p><strong> Session 8</strong><br />Present your project orally in English.</p>
+<p><strong> Session 9</strong><br />Complete a self-assessment and reflect on your learning.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779904445260-mtwqj5rq2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Use English as much as possible!</p>\n<p><strong>DUA. Tip: You can learn in different ways: reading, watching videos or working with your team.</strong></p>\n<p>In this timeline, you can see all the steps of the project.</p>\n<p> Click on the following link to explore the timeline and understand what you will do in each session.</p>\n<p><a href=\"https://padlet.com/mromrub051/exploring-london-the-green-way-sq3q88fir0o2ra2x\" title=\"\">https://padlet.com/mromrub051/exploring-london-the-green-way-sq3q88fir0o2ra2x </a></p>\n<p>Project Timeline<br />In this project, you will complete different tasks step by step.</p>\n<p> <strong>Session 1</strong><br />Watch a video about London and share what you already know.</p>\n<p><strong>Session 2</strong><br />Learn vocabulary about London landmarks.</p>\n<p><strong> Session 3</strong><br />Learn about sustainable transport and create a mini-poster.</p>\n<p><strong>Session 4</strong><br />Practice giving directions through role-play.</p>\n<p><strong> Sessions 5–6</strong><br />Research about London landmarks and eco-friendly transport.</p>\n<p><strong> Session 7</strong><br />Design your sustainable itinerary.</p>\n<p><strong> Session 8</strong><br />Present your project orally in English.</p>\n<p><strong> Session 9</strong><br />Complete a self-assessment and reflect on your learning.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6o-iq0gn07jx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUATION CRITERIA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUATION CRITERIA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUATION CRITERIA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6o-iq0gn07jx</odePageId>
+      <odeBlockId>block-1779904826189-g77dfd24m</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6o-iq0gn07jx</odePageId>
+          <odeBlockId>block-1779904826189-g77dfd24m</odeBlockId>
+          <odeIdeviceId>idevice-1779904826188-etg38eob4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Click here to see the assessment criteria</p>
+<p><a href="{{context_path}}/content/resources/Copy of 6.1. Asociamos tareas a Criterios de evaluación (1) (2).pdf" title="Criterios de evaluación (1) (2).pdf">{{context_path}}/content/resources/Copy of 6.1. Asociamos tareas a Criterios de evaluación (1) (2).pdf</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779904826188-etg38eob4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Click here to see the assessment criteria</p>\n<p><a href=\"{{context_path}}/content/resources/Copy of 6.1. Asociamos tareas a Criterios de evaluación (1) (2).pdf\" title=\"Criterios de evaluación (1) (2).pdf\">{{context_path}}/content/resources/Copy of 6.1. Asociamos tareas a Criterios de evaluación (1) (2).pdf</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6p-w7u0lujvn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUATION INSTRUMENTS</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUATION INSTRUMENTS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUATION INSTRUMENTS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6p-w7u0lujvn</odePageId>
+      <odeBlockId>block-1779905899390-ybn3yj5zm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6p-w7u0lujvn</odePageId>
+          <odeBlockId>block-1779905899390-ybn3yj5zm</odeBlockId>
+          <odeIdeviceId>idevice-1779905899390-z659tz200</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Assessment Process </strong><br />Assessment in this project is continuous and formative, taking place throughout all sessions.</p>
+<p>During this project, your work will be evaluated in different ways:</p>
+<p>• Your final project (travel guide and presentation)<br />• Your participation in class<br />• Your teamwork<br />• Your use of English</p>
+<p>We will use different tools to evaluate your learning:</p>
+<p>• A rubric (teacher and peer evaluation)<br />• A digital questionnaire<br />• A self-assessment (evaluation wheel)</p>
+<p>We will evaluate these skills:</p>
+<p>• Understanding information (ING.5.1)<br />• Speaking and writing in English (ING.5.2)<br />• Communicating and interacting with others (ING.5.3)<br />• Learning strategies and reflection (ING.5.5)<br />• Cultural awareness (ING.5.6)</p>
+<p>These tools will help you understand your progress and improve your learning.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779905899390-z659tz200","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Assessment Process </strong><br />Assessment in this project is continuous and formative, taking place throughout all sessions.</p>\n<p>During this project, your work will be evaluated in different ways:</p>\n<p>• Your final project (travel guide and presentation)<br />• Your participation in class<br />• Your teamwork<br />• Your use of English</p>\n<p>We will use different tools to evaluate your learning:</p>\n<p>• A rubric (teacher and peer evaluation)<br />• A digital questionnaire<br />• A self-assessment (evaluation wheel)</p>\n<p>We will evaluate these skills:</p>\n<p>• Understanding information (ING.5.1)<br />• Speaking and writing in English (ING.5.2)<br />• Communicating and interacting with others (ING.5.3)<br />• Learning strategies and reflection (ING.5.5)<br />• Cultural awareness (ING.5.6)</p>\n<p>These tools will help you understand your progress and improve your learning.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6q-wo24dektk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SELF-ASSESSMENT</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SELF-ASSESSMENT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SELF-ASSESSMENT</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6q-wo24dektk</odePageId>
+      <odeBlockId>block-1779979976792-w933l12bz</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6q-wo24dektk</odePageId>
+          <odeBlockId>block-1779979976792-w933l12bz</odeBlockId>
+          <odeIdeviceId>idevice-1779979976791-rnlx64175</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>At the end of the project, you will complete a <strong>self-assessment</strong> activity.</p>
+<p>You will reflect on:</p>
+<p>• Your participation<br />• Your use of English<br />• Your teamwork<br />• What you have learned</p>
+<p>👉 Below you can see an example of the self-assessment wheel:<img src="{{context_path}}/content/resources/db86211c-f8cb-43af-8b6b-f0d580d7c937 (2).png" width="1254" height="1254" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779979976791-rnlx64175","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>At the end of the project, you will complete a <strong>self-assessment</strong> activity.</p>\n<p>You will reflect on:</p>\n<p>• Your participation<br />• Your use of English<br />• Your teamwork<br />• What you have learned</p>\n<p>👉 Below you can see an example of the self-assessment wheel:<img src=\"{{context_path}}/content/resources/db86211c-f8cb-43af-8b6b-f0d580d7c937 (2).png\" width=\"1254\" height=\"1254\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6q-fw1cup0s6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CREDITS</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CREDITS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CREDITS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6q-fw1cup0s6</odePageId>
+      <odeBlockId>block-1779981215578-cjk3u5beu</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6q-fw1cup0s6</odePageId>
+          <odeBlockId>block-1779981215578-cjk3u5beu</odeBlockId>
+          <odeIdeviceId>idevice-1779981215577-9kd9tgyxi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Author: </strong>María Jesús Romero Rubio.</p>
+<p><strong>Description:</strong><br />This project, "Exploring London the Green Way", is designed for 5th grade Primary Education students. It aims to develop English language skills, digital competence and environmental awareness through a project-based learning approach.</p>
+<p><strong>License:</strong><br />This resource is shared under a<strong> Creative Commons license for educational use (CC BY-NC-SA)</strong>. It can be used, adapted and shared for non-commercial purposes, giving appropriate credit.</p>
+<p><strong>Resources:</strong><br />All images, videos and materials used in this project belong to their respective authors and are used for educational purposes only. Sources are indicated whenever possible.</p>
+<p><strong>Download editable file:</strong><br />Click here to download the editable version of this project (.elp file).<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779981215577-9kd9tgyxi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Author: </strong>María Jesús Romero Rubio.</p>\n<p><strong>Description:</strong><br />This project, \"Exploring London the Green Way\", is designed for 5th grade Primary Education students. It aims to develop English language skills, digital competence and environmental awareness through a project-based learning approach.</p>\n<p><strong>License:</strong><br />This resource is shared under a<strong> Creative Commons license for educational use (CC BY-NC-SA)</strong>. It can be used, adapted and shared for non-commercial purposes, giving appropriate credit.</p>\n<p><strong>Resources:</strong><br />All images, videos and materials used in this project belong to their respective authors and are used for educational purposes only. Sources are indicated whenever possible.</p>\n<p><strong>Download editable file:</strong><br />Click here to download the editable version of this project (.elp file).<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6r-99xr64xec</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DIDACTIC GUIDE</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DIDACTIC GUIDE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DIDACTIC GUIDE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6r-99xr64xec</odePageId>
+      <odeBlockId>block-1779981367618-t38ftkjw6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6r-99xr64xec</odePageId>
+          <odeBlockId>block-1779981367618-t38ftkjw6</odeBlockId>
+          <odeIdeviceId>idevice-1779981367617-wd1g3gk75</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Relationship between tasks and assessment criteria.</strong></p>
+<p>In this learning situation, each task is directly connected to specific assessment criteria in order to ensure a coherent and meaningful evaluation process.</p>
+<p>The different project sessions are designed to progressively develop the students’ skills:</p>
+<p>• Session 1–2: Activation of prior knowledge and vocabulary learning<br />→ Related to criterion ING.5.1 (understanding information)</p>
+<p>• Session 3–4: Practice of vocabulary and communicative interaction (role-play, directions)<br />→ Related to criteria ING.5.2 (oral and written production) and ING.5.3 (interaction)</p>
+<p>• Session 5–6: Research and information selection about London and sustainable transport<br />→ Related to criteria ING.5.1 (comprehension) and ING.5.5 (learning strategies)</p>
+<p>• Session 7: Design of the sustainable itinerary<br />→ Related to criteria ING.5.2 (written production) and ING.5.6 (cultural awareness)</p>
+<p>• Session 8: Oral presentation of the project<br />→ Related to criteria ING.5.2 (oral production), ING.5.3 (interaction) and ING.5.6 (intercultural awareness)</p>
+<p>• Session 9: Final reflection and self-assessment<br />→ Related to criteria ING.5.5 (reflection) and ING.5.6 (cultural awareness)</p>
+<p>This structure ensures that all assessment criteria are addressed through meaningful tasks, allowing students to demonstrate their learning in different ways.</p>
+<p>Additionally, this approach supports a continuous and formative assessment process, where both the learning process and the final product are taken into account.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779981367617-wd1g3gk75","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Relationship between tasks and assessment criteria.</strong></p>\n<p>In this learning situation, each task is directly connected to specific assessment criteria in order to ensure a coherent and meaningful evaluation process.</p>\n<p>The different project sessions are designed to progressively develop the students’ skills:</p>\n<p>• Session 1–2: Activation of prior knowledge and vocabulary learning<br />→ Related to criterion ING.5.1 (understanding information)</p>\n<p>• Session 3–4: Practice of vocabulary and communicative interaction (role-play, directions)<br />→ Related to criteria ING.5.2 (oral and written production) and ING.5.3 (interaction)</p>\n<p>• Session 5–6: Research and information selection about London and sustainable transport<br />→ Related to criteria ING.5.1 (comprehension) and ING.5.5 (learning strategies)</p>\n<p>• Session 7: Design of the sustainable itinerary<br />→ Related to criteria ING.5.2 (written production) and ING.5.6 (cultural awareness)</p>\n<p>• Session 8: Oral presentation of the project<br />→ Related to criteria ING.5.2 (oral production), ING.5.3 (interaction) and ING.5.6 (intercultural awareness)</p>\n<p>• Session 9: Final reflection and self-assessment<br />→ Related to criteria ING.5.5 (reflection) and ING.5.6 (cultural awareness)</p>\n<p>This structure ensures that all assessment criteria are addressed through meaningful tasks, allowing students to demonstrate their learning in different ways.</p>\n<p>Additionally, this approach supports a continuous and formative assessment process, where both the learning process and the final product are taken into account.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpqlni6r-gvw73wnta</odePageId>
+  <odeParentPageId>page-mpqlni6r-99xr64xec</odeParentPageId>
+  <pageName>PROJECT EXPORT AND PUBLICATION</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROJECT EXPORT AND PUBLICATION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROJECT EXPORT AND PUBLICATION</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpqlni6r-gvw73wnta</odePageId>
+      <odeBlockId>block-1779981862539-c91xoscj5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpqlni6r-gvw73wnta</odePageId>
+          <odeBlockId>block-1779981862539-c91xoscj5</odeBlockId>
+          <odeIdeviceId>idevice-1779981862538-6hlzoztpw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>The eXeLearning project has been exported and published so that it can be accessed, downloaded, and reused by other teachers.</strong></p>
+<p>The resource has been exported in HTML format and uploaded to an online platform (GitHub / Moodle), allowing full navigation through all its pages.</p>
+<p>A link to the published version has been provided so that the project can be reviewed and evaluated.</p>
+<p>The export and publication process has been carried out following the guidelines explained in the eXeLearning manual included in this module.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779981862538-6hlzoztpw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>The eXeLearning project has been exported and published so that it can be accessed, downloaded, and reused by other teachers.</strong></p>\n<p>The resource has been exported in HTML format and uploaded to an online platform (GitHub / Moodle), allowing full navigation through all its pages.</p>\n<p>A link to the published version has been provided so that the project can be reviewed and evaluated.</p>\n<p>The export and publication process has been carried out following the guidelines explained in the eXeLearning manual included in this module.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
